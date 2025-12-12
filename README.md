@@ -6,15 +6,15 @@
 
 
 
-### Step 1 : Download The Minecraft Version Before 1.21.120 from Minecraft Bedrock Launcher
+Step 1 : Download The Minecraft Version Before 1.21.120 from Minecraft Bedrock Launcher
 
 Download Link Of Minecraft Bedrock Launcher : https://github.com/BedrockLauncher/BedrockLauncher
 
 
-### Step 2 : Download My "DashPatchVersion1.2.3" Form This Page and Extract It
+Step 2 : Download My "DashPatchVersion1.2.3" Form This Page and Extract It
 
 
-### Step 3 : Run The "DashPatchVersion1.2.3.cmd" as Adminstrator
+Step 3 : Run The "DashPatchVersion1.2.3.cmd" as Adminstrator
 
 
 ### Important: Every Windows 10/11 KB update will reset these .dll files.
